@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "youbox_service", "youbox_service\youbox_service.csproj", "{DF648FA0-48D8-4D33-837A-2101795FACE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF648FA0-48D8-4D33-837A-2101795FACE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF648FA0-48D8-4D33-837A-2101795FACE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF648FA0-48D8-4D33-837A-2101795FACE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF648FA0-48D8-4D33-837A-2101795FACE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {113D3F5F-7F6E-468B-AAE7-F0B6F2A892D3}
+	EndGlobalSection
+EndGlobal
